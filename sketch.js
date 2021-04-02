@@ -10,14 +10,14 @@ var mouseImage3;
 
 function preload() {
     //load the images here
-backGroundimg = loadImage("images/garden.png");
-catImage1 = loadAnimation("images/cat1.png");
-catImage2 = loadAnimation("images/cat2.png","images/cat3.png");
-catImage3 = loadAnimation("images/cat4.png");
+backGroundimg = loadImage("Images/garden.png");
+catImage1 = loadAnimation("Images/cat1.png");
+catImage2 = loadAnimation("Images/cat2.png","Images/cat3.png");
+catImage3 = loadAnimation("Images/cat4.png");
 
-mouseImage1 = loadAnimation("images/mouse1.png");
-mouseImage2 = loadAnimation("images/mouse2.png","images/mouse3.png");
-mouseImage3 = loadAnimation("images/mouse4.png");
+mouseImage1 = loadAnimation("Images/mouse1.png");
+mouseImage2 = loadAnimation("Images/mouse2.png","Images/mouse3.png");
+mouseImage3 = loadAnimation("Images/mouse4.png");
 }
 
 function setup(){
